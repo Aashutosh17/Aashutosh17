@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineer in the Making | Passionate about Problem-Solving, DSA, and Full-Stack Development<br>💻 Master’s in Computer Science | Building Scalable Solutions with Python and MERN stack Technology.<br>⚡ Currently Working On: A Full-Stack MERN App & Advanced DSA in Python<br>🎯 Aspiring Big Tech Engineer | Love Coding, Debugging, and Learning New Technologies<br>
+🚀 Software Engineer in the Making | Passionate about Problem-Solving, DSA, and Full-Stack Development<br>💻 Master’s in Computer Science | Building Scalable Solutions with Python and MERN stack Technology.<br>⚡ Currently Working On: MERN Stack, Flutter, Fast API and Data Structures Algorithms using Python <br>🎯Love Coding, Debugging, and Learning New Technologies<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aashutoshpaneru/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AashtasticA2L) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashutoshpaneru01@gmail.com) 
@@ -14,7 +14,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
 # 📊 GitHub Stats:
