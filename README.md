@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Software Engineer in Making | Passionatly exploring career in Full Stack Development, Back-end engineering <br> 💻 Master of Science in Computer Science | Building Scalable softwares. <br>⚡ Currently Working On: Data Structures Algorithm, Python, Fast API, Java, JavaScript <br>🎯 Loves to Learn, Build and Explore.<br><br>📚 Currently Reading the famous CTCI and Robert C martin's Clean Code the OG for devs<br>
 
 ## 🌐 Socials:
