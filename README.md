@@ -1,4 +1,4 @@
-#About Me:
+## About Me:  
 Hi, I'm Aashutosh 👋
 
 🎓 MS Computer Science Student   
@@ -13,6 +13,9 @@ Currently focusing on:
 • Database design  
 • Data Structures & Algorithms  
 • Building scalable backend services
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aashutoshpaneru/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashutoshpaneru01@icloud.com) 
